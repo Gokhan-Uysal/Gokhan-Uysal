@@ -2,9 +2,6 @@
 
 <p align="center">Mechanical & Computer Engineering</p>
 
-
-[Personal Website](https://gokhanuysal.net/)
-
 <br>
 <br>
 
