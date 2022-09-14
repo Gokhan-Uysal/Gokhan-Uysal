@@ -1,6 +1,6 @@
 <h1 align="center">Gökhan Uysal</h1>
 
-<p align="center">Mechanical & Computer Engineering</p>
+<p align="center">Mechanical & Computer Engineer</p>
 
 <br>
 <br>
